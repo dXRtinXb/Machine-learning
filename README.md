@@ -12,9 +12,7 @@
 ---
 
 ## 🧠 Overview
-This repository contains a collection of **machine learning algorithms** implemented with **Scikit-learn**, **TensorFlow**, and **PyTorch**.  
-It’s designed to help you **understand the math**, **visualize model behavior**, and **train real-world ML models** with clean, modular code.
-
+This repository contains a collection of **machine learning algorithms** implemented with **Scikit-learn**.  
 ---
 
 ## 🚀 Features
